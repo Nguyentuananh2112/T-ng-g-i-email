@@ -8,7 +8,7 @@ Chạy code trong terminal: node server.js
 + Tìm đến mục Body và chọn raw (JSON)
 + Sau đó bắt đầu test gửi mail:
 {
-"to": "anhnhtbh00862@fpt.edu.vn"  // chọn email muốn gửi thông tin đến
+"to": "example@gmail.com"  // chọn email muốn gửi thông tin đến
 }
 + Và nhấn Send để test
 + Ở phần Response nếu có dòng True thì là đã gửi thành công.
