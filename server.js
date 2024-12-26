@@ -18,7 +18,7 @@ const transporter = nodemailer.createTransport({
 const sendEmail = () => {
   const mailOptions = {
     from: 'ngtanh2112@gmail.com',
-    to: ', anhnhtbh00862@fpt.edu.vn',
+    to: 'trang1322k4@gmail.com , anhnhtbh00862@fpt.edu.vn',
     subject: 'Chúc Mừng Năm Mới',
     text: `HELLO lần này lại là Anh này -))), trời ơi lần trước bị quê một cục luôn á, nhưng mà làm gì có cái gì lần đầu là suôn sẻ đúng hong. Chả là lúc trước anh có lỡ tay một chút xíu gửi email cho em bị lộ hết thông tin mật roài, èo ơi tối hôm lỡ gửi cho em í về nhà đắp chăn nằm giãy đành đạch vì ngại -)), nên là lần này e đọc được tin nhắn vào lúc Tết í thì là anh đã thành công rồi ấy nhá, không còn là lập trình viên lỏd nữa  -))) hoặc vẫn lỏd ... Kể nể cũng đủ rồi bây giờ vào công việc chính này: 
 
